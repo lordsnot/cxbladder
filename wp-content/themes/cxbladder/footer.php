@@ -20,7 +20,7 @@
 
 	    <div id="footerPlaceholder">
 			<div class="footer">
-			    <a href="http://tolmar.com.au/index.html" class="logo"><img src="/cxbladder/wp-content/themes/cxbladder/img/logos/tolmar_footer.jpg" alt="TOLMAR Australia" /></a>
+			    <a href="http://tolmar.com.au/index.html" class="logo"><img src="/wp-content/themes/cxbladder/img/logos/tolmar_footer.jpg" alt="TOLMAR Australia" /></a>
 			    <div class="sitemap">
 			        <div class="column">
 			            <strong>About TOLMAR<br>Australia</strong>

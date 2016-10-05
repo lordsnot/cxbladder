@@ -19,7 +19,7 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<main id="main cxbladder" class="site-main" role="main">
 			<div class="header">
-	   			 <a class="external" rel="http://fertility-for-men.myshopify.com/products/cx-bladder-cancer-test"><img class="headerBuyButton" src="/cxbladder/wp-content/themes/cxbladder/img/page_assets/buy_button.png" /></a>
+	   			 <a class="external" rel="http://fertility-for-men.myshopify.com/products/cx-bladder-cancer-test"><img class="headerBuyButton" src="/wp-content/themes/cxbladder/img/page_assets/buy_button.png" /></a>
 	   		</div>
 			<div class="intro">
 				<?php echo $custom_fields['intro_text'][0]; ?>
@@ -60,7 +60,7 @@ get_header(); ?>
 
 			            <div class="containerLeft">
 			                <div class="title"><?php echo $custom_fields['section3_title'][0]; ?></div>
-			                <div class="image"><img src="/cxbladder/wp-content/themes/cxbladder/img/page_assets/section3Leftb.jpg"/></div>
+			                <div class="image"><img src="/wp-content/themes/cxbladder/img/page_assets/section3Leftb.jpg"/></div>
 			            </div>
 			            
 			            <div class="containerRight">
@@ -78,15 +78,15 @@ get_header(); ?>
 		        <div class="container">
 
 		        	<div class="link">
-		        		<a class="external" rel="https://bladdercancer.me/"><img src="/cxbladder/wp-content/themes/cxbladder/img/page_assets/bc_logo.png" /></a>
+		        		<a class="external" rel="https://bladdercancer.me/"><img src="/wp-content/themes/cxbladder/img/page_assets/bc_logo.png" /></a>
 		        	</div>
 		        	<div class="link">
-		        		<a class="external" rel="http://www.pacificedgedx.com"><img src="/cxbladder/wp-content/themes/cxbladder/img/page_assets/pe_logo.png" /></a>
+		        		<a class="external" rel="http://www.pacificedgedx.com"><img src="/wp-content/themes/cxbladder/img/page_assets/pe_logo.png" /></a>
 		        	</div>
 		        	<div class="link">
 		        		<div class="cx">
-		        			<img src="/cxbladder/wp-content/themes/cxbladder/img/page_assets/logo-cxbladder.png" />
-		        			<a class="external" rel="http://fertility-for-men.myshopify.com/products/cx-bladder-cancer-test"><img src="/cxbladder/wp-content/themes/cxbladder/img/page_assets/buy_button_white.png" /></a>
+		        			<img src="/wp-content/themes/cxbladder/img/page_assets/logo-cxbladder.png" />
+		        			<a class="external" rel="http://fertility-for-men.myshopify.com/products/cx-bladder-cancer-test"><img src="/wp-content/themes/cxbladder/img/page_assets/buy_button_white.png" /></a>
 		        		</div>
 		        	</div>
 

@@ -55,6 +55,9 @@ define('SECURE_AUTH_SALT', '.J 7oMAqtx;d;5JQgW3P|_8N3>N)T$^SU+9T?)K%:N@g1y<RD99N
 define('LOGGED_IN_SALT',   'SMD<N1Z A5~[,#K{}Je|Bq`H*IiXr_m-[fxM;!;4{b3-Y`g|% 5d7ExPx-oDepOa');
 define('NONCE_SALT',       'N*;;h{@e^t@;prT q:6x?,*}P)R#zm?LZ4&TJ-J~s.)?Xg*&}Zc),Kz[&([B!E&F');
 
+define('WP_HOME','http://dev.cxbladder.com.au');
+define('WP_SITEURL','http://dev.cxbladder.com.au');
+
 /**#@-*/
 
 /**
